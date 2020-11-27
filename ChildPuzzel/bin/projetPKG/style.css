@@ -1,0 +1,39 @@
+
+#root
+{
+	-fx-background-color: #708090;
+}
+
+#yellow
+{
+	-fx-background-color: yellow;
+    -fx-border-color: #0000FF;
+}
+
+#red
+{
+	-fx-background-color: #00FFFF;
+    -fx-border-color: yellow;
+    -fx-font-weight: bold;
+}
+
+#label
+{
+	-fx-font-size: 13;
+	-fx-font-weight: bold;
+}
+
+#khaki
+{
+	-fx-background-color: khaki;
+	-fx-border-color: lightskyblue;
+	-fx-font-size: 26;
+}
+
+#coral
+{
+	-fx-background-color: #F0FFFF;
+	-fx-border-color: lightskyblue;
+	-fx-font-size: 26;
+}
+
